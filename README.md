@@ -1,4 +1,3 @@
-# Hi there 👋
 ## My name is Ju Min Ki
 
 - Current : SSAFY 7th
