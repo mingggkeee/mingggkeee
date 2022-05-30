@@ -11,8 +11,8 @@
 ![mksu234 profile](http://mazandi.herokuapp.com/api?handle=mksu234&theme=warm)
 
 ## Github Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingggkeee&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingggkeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingggkeee&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingggkeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 💪Skills
 ### Platforms & Languages
